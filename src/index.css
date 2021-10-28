@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.control-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 180px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  padding: 10px 12px;
+  margin: 20px;
+  font-size: 10px;
+  line-height: 2;
+  color: #6b6b76;
+
+  outline: none;
+}

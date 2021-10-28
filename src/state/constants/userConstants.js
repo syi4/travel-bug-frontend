@@ -1,0 +1,5 @@
+export const FETCH_USER_PROFILE = "FETCH_USER_PROFILE";
+
+export const START_LOADING = "START_LOADING";
+
+export const STOP_LOADING = "STOP_LOADING";
