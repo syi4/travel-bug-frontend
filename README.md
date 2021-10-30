@@ -12,6 +12,13 @@ This is a fullstack social media application using the mern stack + redux.
 * Check your profile page and see all the countries you visited
 * Ready to travel again? If you need inspiration, check other users maps
 
-Profile Page
+# Profile Page
 
-![Screen Shot 2021-10-30 at 12 52 38 AM](https://user-images.githubusercontent.com/86455240/139521456-ca4e9469-13e3-4171-af42-1bd1a80f8b39.png)
+
+
+![Screen Shot 2021-10-30 at 12 52 38 AM](https://user-images.githubusercontent.com/86455240/139521648-85782a00-1a1b-45a5-bf46-871585130dc8.png)
+
+# Home Page
+
+
+![Screen Shot 2021-10-30 at 12 51 57 AM](https://user-images.githubusercontent.com/86455240/139521654-31624139-e3b1-44d1-a5d1-238b06535c07.png)
