@@ -4,7 +4,7 @@ Some of these friends would pin maps after they travel and others hoarded photos
 I wanted to keep track of where they went so that once things started opening up again, I can create my own itinerary based off theirs.
 
 # Description
-This is a fullstack social media application using the mern stack + redux.
+This is a fullstack social media application using the mern stack + redux. Apologies in advance for the slow upload. I wanted to be as resourceful as I can. I am using the free Heroku service, and base64 files to save images compared to saving them as urls. I keep hitting my rate limits on S3 bucket and cloudinary.
 
 # How to use
 * Sign up for an account
